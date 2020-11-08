@@ -1,0 +1,15 @@
+header.header {
+    background-color: rgb(98, 159, 230);
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
+
+header.header {
+    color: rgb(255, 255, 255);
+}
